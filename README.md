@@ -6,7 +6,7 @@
 
 ---
 
-🧠 machine learning &nbsp;·&nbsp; 📊 data science &nbsp;·&nbsp; 💻 problem solving &nbsp;·&nbsp;
+🧠 machine learning &nbsp;·&nbsp; 📊 data science &nbsp;·&nbsp; 💻 problem solving &nbsp;
 
 ![Python](https://img.shields.io/badge/Python-3d6b7a?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5a7d6e?style=flat-square&logo=openjdk&logoColor=white)
