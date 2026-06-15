@@ -2,7 +2,7 @@
 
 # hey, i'm Mohamed 👋🏻
 
-*cs student at university of geneva · ai & data science *
+cs student at university of geneva · ai & data science
 
 ---
 
