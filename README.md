@@ -1,9 +1,5 @@
 <div align="center">
 
-```
-∿ ∿ ∿  time flows differently here  ∿ ∿ ∿
-```
-
 # hey, i'm Mohamed 👋🏻
 
 *cs student at university of geneva · ai & data science *
@@ -24,6 +20,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-5a7d6e?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 [![Email](https://img.shields.io/badge/Email-5a7d6e?style=flat-square&logo=gmail&logoColor=white)](mailto:zirarmohamed05@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3d6b7a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zirar-b60585396)
 
 *"if you could go back and change things... would you?"*
 `still deciding. 🦋`
@@ -32,6 +29,4 @@
 
 <div align="center">
 
-```
-∿ ∿ ∿  time flows differently here  ∿ ∿ ∿
-```
+
