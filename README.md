@@ -6,7 +6,7 @@ cs student at university of geneva · ai & data science
 
 ---
 
-🧠 machine learning &nbsp;·&nbsp; 📊 data science &nbsp;·&nbsp; 💻 problem solving
+machine learning &nbsp;·&nbsp; data science &nbsp;·&nbsp; problem solving
 
 ![Python](https://img.shields.io/badge/Python-3d6b7a?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5a7d6e?style=flat-square&logo=openjdk&logoColor=white)
